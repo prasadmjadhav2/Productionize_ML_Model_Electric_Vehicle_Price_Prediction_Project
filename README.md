@@ -1,2 +1,2 @@
-# Productionize_ML_Model_Electric_Vehicle_Price_Prediction_Project
-Productionize_ML_Model_Electric_Vehicle_Price_Prediction_Project
+# Electric Vehicle Price Prediction Project (Productionize ML Model)
+Innomatics Research Labs
